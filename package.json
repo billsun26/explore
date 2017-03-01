@@ -1,0 +1,24 @@
+{
+  "name": "explore",
+  "version": "1.0.0",
+  "description": "travel itinerary planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billsun26/explore.git"
+  },
+  "keywords": [
+    "travel",
+    "explore",
+    "itinerary"
+  ],
+  "author": "Bill Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billsun26/explore/issues"
+  },
+  "homepage": "https://github.com/billsun26/explore#readme"
+}
